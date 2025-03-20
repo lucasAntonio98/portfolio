@@ -1,7 +1,7 @@
 # 🌟 Bem-vindo(a) ao meu GitHub!
 
 ## 👋 Sobre mim
-Olá! Me chamo **Lucas**, sou um(a) apaixonado(a) por tecnologia, dados e soluções criativas. Aqui no meu GitHub você encontrará projetos que representam meu trabalho, aprendizado e paixão por áreas como:
+Olá! Me chamo **Lucas Antônio**, sou um apaixonado por tecnologia, dados e soluções criativas. Aqui no meu GitHub você encontrará projetos que representam meu trabalho, aprendizado e paixão por áreas como:
 
 - 🌍 **Geoprocessamento** e análise de dados geoespaciais.
 - 📊 **Ciência de Dados** aplicada a problemas reais.
@@ -29,6 +29,6 @@ Além dos projetos técnicos, sou um(a) entusiasta por impacto ambiental e solu�
 ---
 
 ## 📫 Vamos conectar?
-- 💼 [Meu LinkedIn](https://www.linkedin.com) *(Substitua com o link para o seu perfil)*
-- ✉️ **Email:** lucas@email.com *(Substitua pelo seu e-mail)*
-- 🌐 **Portfólio:** [www.meuportfolio.com](https://www.meuportfolio.com) *(Substitua com o link para o seu portfólio)*
+- 💼 [Meu LinkedIn](www.linkedin.com/in/lucas-antônio-a89a1a15a) 
+- ✉️ **Email:** lucas198antonio@gmail.com
+
