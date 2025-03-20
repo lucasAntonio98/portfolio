@@ -1,42 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lucas - Portfólio</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+# 🌟 Bem-vindo(a) ao meu GitHub!
 
-    <h1 style="text-align: center; color: #4CAF50;">🌟 Bem-vindo(a) ao meu GitHub!</h1>
+## 👋 Sobre mim
+Olá! Me chamo **Lucas**, sou um(a) apaixonado(a) por tecnologia, dados e soluções criativas. Aqui no meu GitHub você encontrará projetos que representam meu trabalho, aprendizado e paixão por áreas como:
 
-    <h2>👋 Sobre mim</h2>
-    <p>
-        Olá! Me chamo <strong>Lucas</strong>, sou um apaixonado por tecnologia, dados e soluções criativas. Aqui no meu GitHub você encontrará projetos que representam meu trabalho, aprendizado e paixão por áreas como:
-    </p>
-    <ul>
-        <li>🌍 <strong>Geoprocessamento</strong> e análise de dados geoespaciais.</li>
-        <li>📊 <strong>Ciência de Dados</strong> aplicada a problemas reais.</li>
-        <li>💻 Soluções de <strong>automação</strong> e desenvolvimento backend com Python.</li>
-        <li>🚀 Exploração de APIs, integrações e visualizações dinâmicas.</li>
-    </ul>
+- 🌍 **Geoprocessamento** e análise de dados geoespaciais.
+- 📊 **Ciência de Dados** aplicada a problemas reais.
+- 💻 Soluções de **automação** e desenvolvimento backend com Python.
+- 🚀 Exploração de APIs, integrações e visualizações dinâmicas.
 
-    <h2>🛠️ Meu Portfólio</h2>
-    <p>Aqui estão alguns destaques dos meus projetos:</p>
-    <table style="width: 100%; border-collapse: collapse;">
-        <tr style="background-color: #f2f2f2;">
-            <th style="padding: 10px; border: 1px solid #ddd;">📌 Projeto</th>
-            <th style="padding: 10px; border: 1px solid #ddd;">✨ Descrição</th>
-            <th style="padding: 10px; border: 1px solid #ddd;">🚀 Tecnologias</th>
-        </tr>
-        <tr>
-            <td style="padding: 10px; border: 1px solid #ddd;">Cálculo NDVI e EVI</td>
-            <td style="padding: 10px; border: 1px solid #ddd;">Processamento de imagens geoespaciais para análise de vegetação.</td>
-            <td style="padding: 10px; border: 1px solid #ddd;">Python, rasterio, numpy</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px; border: 1px solid #ddd;">Mapa de Calor Interativo</td>
-            <td style="padding: 10px; border: 1px solid #ddd;">Criação de mapas interativos com dados georreferenciados.</td>
-            <td style="padding: 10px; border: 1px solid #ddd;">Python, folium, pandas</td>
-        </tr>
-        <tr>
-            <td style="padding: 10px; border: 1px solid #ddd;">Classificação
+---
+
+## 🛠️ Meu Portfólio
+Aqui estão alguns destaques dos meus projetos:
+
+| 📌 **Projeto**             | ✨ **Descrição**                                        | 🚀 **Tecnologias**            |
+|----------------------------|--------------------------------------------------------|--------------------------------|
+| **Cálculo NDVI e EVI**     | Processamento de imagens geoespaciais para análise de vegetação. | Python, rasterio, numpy        |
+| **Mapa de Calor Interativo** | Criação de mapas interativos com dados georreferenciados. | Python, folium, pandas         |
+| **Classificação do Uso do Solo** | Análise com aprendizado de máquina aplicada ao uso da terra.  | scikit-learn, geopandas, matplotlib |
+
+Explore outros projetos e me conte o que você achou! Estou sempre aberto a feedbacks e colaborações. 🚀
+
+---
+
+## 🌱 O que me move
+Além dos projetos técnicos, sou um(a) entusiasta por impacto ambiental e soluções sustentáveis. Minha meta é usar tecnologia para resolver desafios globais, seja mapeando áreas vulneráveis, analisando dados ou desenvolvendo ferramentas inovadoras.
+
+---
+
+## 📫 Vamos conectar?
+- 💼 [Meu LinkedIn](https://www.linkedin.com) *(Substitua com o link para o seu perfil)*
+- ✉️ **Email:** lucas@email.com *(Substitua pelo seu e-mail)*
+- 🌐 **Portfólio:** [www.meuportfolio.com](https://www.meuportfolio.com) *(Substitua com o link para o seu portfólio)*
